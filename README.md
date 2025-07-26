@@ -1,0 +1,1 @@
+# Insurance Quote Generator\n\nRun backend and frontend as per instructions inside respective folders.
